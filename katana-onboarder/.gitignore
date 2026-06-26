@@ -1,0 +1,15 @@
+# Binaries
+app
+*.exe
+
+# Dependencies
+frontend/node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
